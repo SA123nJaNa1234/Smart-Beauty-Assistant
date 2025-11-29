@@ -1,4 +1,4 @@
-venv/
+beauty/
 __pycache__/
 *.npy
 *.pt
